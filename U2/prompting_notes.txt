@@ -1,0 +1,26 @@
+Prompt engineering is the prcess where you guide artificial inteligence using prompts
+"your holding it wrong"
+prompt engineering is a powerful tool but it doesnt excuse ai's flaws
+when critics point out ais mistakes defenders say your promting it wrong
+the prompt framework
+
+1.task
+	persona: who is the ai
+	format 
+	
+
+
+3. reference
+	provide additional data,examples,or specific ideas
+	attached is documentation about coding framework we are using
+4. evaluate
+	review the output
+5. iterate
+	
+	
+always be iterating 
+
+refinement strategies
+	try different phrasing
+		use an analogous task instead
+		
