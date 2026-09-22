@@ -1,0 +1,11 @@
+computer 
+
+servers are "headless" computers
+has all the stuff but not keyboard and monitor
+motherboard holds the main part of the computer
+cpu is mainly silicon everything connects to the cpu 
+if you need more parts you need more pcie express lanes
+ram is faster then nvme but is impermenant 
+hard drives are cheaper then nvme
+Tape drives
+
