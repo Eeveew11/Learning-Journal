@@ -1,0 +1,1 @@
+Making an ai read sign language is a little difficult expecially with movement that takes a lot of processing power
